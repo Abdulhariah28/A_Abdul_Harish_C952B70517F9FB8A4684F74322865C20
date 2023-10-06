@@ -14,10 +14,10 @@ def sort_students(student_list):
 
 # Create a list of student objects
 students = [
-    Student("Abivarna", "A001", 3.9),
-    Student("Smiley", "A002", 3.7),
-    Student("Ayshu", "A003", 4.0),
-    Student("Angry bird", "A004", 3.8)
+    Student("Abdul ", " A001 ", 3.9),
+    Student("Safi ", " A002 ", 3.7),
+    Student("sabeer ", " A003 ", 4.0),
+    Student("Angry bird ", " A004 ", 3.8)
 ]
 
 # Sort the students based on CGPA
